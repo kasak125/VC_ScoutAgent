@@ -41,6 +41,8 @@ Investor pitch preparation
 
 Market opportunity exploration
 
+Prototype: https://chatgpt.com/c/69b928c3-116c-8322-ae39-4f32ade58e8e
+
 🛠️ Tech Stack
 
 Backend: FastAPI
