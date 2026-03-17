@@ -1,4 +1,16 @@
 fastapi
-uvicorn
-requests
+uvicorn[standard]
 pydantic
+requests
+python-dotenv
+
+# If using async support
+httpx
+
+# If using data handling / parsing
+numpy
+pandas
+
+# Optional (only if you are using these)
+crewai
+langchain
